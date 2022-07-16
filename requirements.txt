@@ -1,0 +1,8 @@
+python-3.8.3
+google_api_python_client-2.52.0
+google_auth_httplib2-0.1.0
+google-auth-oauthlib-0.5.2
+mysql-connector-python-8.0.29
+pytest-7.1.2
+
+# video will tell you how to open service accout  on googlesheets:https://www.youtube.com/watch?v=4ssigWmExak
