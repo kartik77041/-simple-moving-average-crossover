@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "hindalco-356217",
-  "private_key_id": "867eebc7fef217519f6e7a1061137cf188647b51",
+  "private_key_id": "************************",
   "private_key": "-----BEGIN PRIVATE KEY-----\     \n-----END PRIVATE KEY-----\n",
   "client_email": "somename@hindalco-356217.iam.gserviceaccount.com",
-  "client_id": "107552114869321644735",
+  "client_id": "*************",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
